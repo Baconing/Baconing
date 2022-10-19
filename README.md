@@ -13,8 +13,8 @@
 - Available for hire.
 
 <h3 align="left">Contact</h3>
-[Email](mailto:iam@baconing.tk), however I don't check my email a lot which is a habit I should get out of.
-[Discord](https://discord.gg/ZNPrEznddB)
+<p align="left"><a href="mailto:iam@baconing.tk">Email</a>, however I don't check my email a lot which is a habit I should get out of. Also I'm not totally sure that my email works so.</p>
+<p align="left"><a href="https://discord.gg/ZNPrEznddB">Discord</a></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=baconing&show_icons=true&locale=en&layout=compact" alt="baconing" /></p>
 
