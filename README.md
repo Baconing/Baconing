@@ -10,6 +10,8 @@
 
 - Ask me about **Java, Bash, Docker, Linux, Bukkit/Spigot API.**
 
+- Mostly working with closed source software, so I don't have many public repositories.
+
 - Available for hire.
 
 <h3 align="left">Contact</h3>
