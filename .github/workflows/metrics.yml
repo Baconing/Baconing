@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: Baconing
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/Detroit
