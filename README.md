@@ -1,1 +1,1 @@
-i'm gonna remake this lol
+![metrics](github-metrics.svg)
